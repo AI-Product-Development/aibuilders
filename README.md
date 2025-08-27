@@ -11,3 +11,5 @@ Sometimes the person who knows the most and has the most interest is you. We are
 We are moving to a monthly cadence to allow enough time for prepare and call for contributions for our monthly get-togethers
 
 Contact us on discord
+
+Landing page https://rsham004.github.io/aibuilders-landing/
