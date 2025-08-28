@@ -8,7 +8,8 @@ Once you have reached a point of conclusion please document good practices and d
 
 Sometimes the person who knows the most and has the most interest is you. We are all unique and different. We can expect to reap what we sow.
 
-We are moving to a monthly cadence to allow enough time for prepare and call for contributions for our monthly get-togethers
+We are moving to a fortnightly cadence to allow enough time for prepare and call for contributions for our monthly get-togethers
+We will have discussions and demos at alternate meetings
 
 Contact us on discord
 
