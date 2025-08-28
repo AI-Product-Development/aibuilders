@@ -13,3 +13,6 @@ We are moving to a monthly cadence to allow enough time for prepare and call for
 Contact us on discord
 
 Landing page https://rsham004.github.io/aibuilders-landing/
+
+AI ENable Ment Strategy, Learning Pathways & Product Foundry AI Community Leadership please see www.productfoundry.ai
+
