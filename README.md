@@ -14,5 +14,5 @@ Contact us on discord
 
 Landing page https://rsham004.github.io/aibuilders-landing/
 
-AI ENable Ment Strategy, Learning Pathways & Product Foundry AI Community Leadership please see www.productfoundry.ai
+AI Enablement Strategy, Learning Pathways & Product Foundry AI Community Leadership please see www.productfoundry.ai
 
